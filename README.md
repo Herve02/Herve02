@@ -2,8 +2,10 @@
 - 👀 I’m interested in web design.
 - 🌱 I’m currently learning business information technology.
 - 💞️ I’m arefresher in the field of web design
+I'm good at html5,css3,js and bootstrap
 And I'm looking forward to collaborate with any one who would wish to
-Work with me on frontend web design projects iam hosting my 
+Work with me 
+ on frontend web design projects iam hosting my 
 Portfolio in the end August 2022.
 
 - 📫 How to reach me: E-mail: twubaherve@gmail.com
