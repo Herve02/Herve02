@@ -5,8 +5,7 @@
 I'm good at html5,css3,js and bootstrap
 And I'm looking forward to collaborate with any one who would wish to
 Work with me 
- on frontend web design projects iam hosting my 
-Portfolio in the end August 2022.
+ on frontend web design projects 
 
 - 📫 How to reach me: E-mail: twubaherve@gmail.com
              Instagram/fb:Herve gabiro
