@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Herve02
-- 👀 I’m interested in web design.
+- 👀 I’m interested in web development.
 - 🌱 I’m business information technology  graduate from the university of rwanda.
 - 💞️ I’m a web developer
 I'm good at html5,css3,js,react bootstrap,wordPress
