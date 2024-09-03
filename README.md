@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Herve02
 - 👀 I’m interested in web development.
 - 🌱 I’m business information technology  graduate from the university of rwanda.
-- 💞️ I’m a web developer
-I'm good at html5,css3,js,react bootstrap,wordPress
-And I'm looking forward to collaborate with any one who would wish to
-Work with me on frontend web development projects 
+- 💞️ I'm good at html5,css3,js,react bootstrap,wordPress And I'm looking forward to collaborate with any one who would wish to Work with me on frontend web development projects 
 
 - 📫 How to reach me: E-mail: twubaherve@gmail.com
              Instagram/fb:Herve gabiro
