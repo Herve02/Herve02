@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Herve02
 - 👀 I’m interested in web design.
-- 🌱 I’m a graduate business information technology from the university of rwanda.
+- 🌱 I’m business information technology  graduate from the university of rwanda.
 - 💞️ I’m a web developer
 I'm good at html5,css3,js,react bootstrap,wordPress
 And I'm looking forward to collaborate with any one who would wish to
